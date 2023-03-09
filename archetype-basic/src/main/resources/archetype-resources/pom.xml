@@ -99,7 +99,7 @@
       <plugins>
         <plugin>
           <artifactId>maven-clean-plugin</artifactId>
-          <version>${maven-clean-plugin-version}</version>
+          <version>${maven-clean-plugin.version}</version>
         </plugin>
         <plugin>
           <artifactId>maven-resources-plugin</artifactId>
